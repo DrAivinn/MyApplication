@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Все наоборот</string>
+    <string name="input_text_hint">Введите текст</string>
+    <string name="text_button">Преобразовать</string>
+    <string name="result">Результат</string>
+    <string name="counter">Количество символов</string>
+</resources>
